@@ -1,0 +1,26 @@
+/* Rest of your existing styles */
+body {
+    background-color: #f9f9f9; /* Replace with your desired background color */
+}
+
+/* Rest of your existing styles */
+
+.slider {
+    display: flex;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+}
+
+.slide {
+    flex-shrink: 0;
+    width: 100%;
+}
+
+.slide img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+/* Rest of your existing styles */
